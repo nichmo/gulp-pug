@@ -1,0 +1,12 @@
+{
+  "name": "gulp-pug",
+  "version": "1.0.0",
+  "description": "gulp-pug環境",
+  "repository": "https://github.com/nichmo/gulp-pug.git",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
